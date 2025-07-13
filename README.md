@@ -9,3 +9,6 @@
 - Used TestBeamWidth of 10 during inference, to improve prediction
 - `Checkout Models for more information`
 
+## Metric
+- Tracked Validation Levenshtein Distance
+![Valid_Levenshtein_Distance](metric/valid_levenshtein_distance)
