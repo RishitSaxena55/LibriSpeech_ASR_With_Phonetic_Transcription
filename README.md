@@ -11,4 +11,5 @@
 
 ## Metric
 - Tracked Validation Levenshtein Distance
-- ![Valid_Levenshtein_Distance](metric/valid_levenshtein_dist.png)
+![Valid_Levenshtein_Distance](metric/valid_levenshtein_dist.png)
+
